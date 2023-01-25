@@ -2,7 +2,7 @@
 
 This is the training data for the Discriminating between Similar Languages - True Labels (DSL-TL) task at VarDial 2023.
 
-<hr />
+<h2>Contents</h2>
 
 This repository contains the following files:
 
@@ -20,7 +20,7 @@ Each line in each of .tsv files are tab-delimited in the format:
 
 `id<tab>sentence<tab>label`
 
-Example: 
+<strong>Example:</strong> 
 
 `135<tab>Hey, burger freaks: Were you planning to wait two hours-plus cooling your heels for Au Cheval’s crazypants patty? Hold your horses.<tab>American (en-US)`
 
