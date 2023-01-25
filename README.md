@@ -16,7 +16,7 @@ This repository contains the following files:
 
 <h2>Format</h2>
 
-Each line in each of .tsv files are tab-delimited in the format:
+Each line in the .tsv files are tab-delimited in the format:
 
 `id<tab>sentence<tab>label`
 
