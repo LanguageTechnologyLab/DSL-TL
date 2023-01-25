@@ -1,4 +1,4 @@
-DSL-TL Corpus
+#DSL-TL Corpus
 ================
 
 This is the training data for the Discriminating between Similar Languages - True Labels (DSL-TL) task at VarDial 2023.
@@ -16,6 +16,8 @@ This repository contains the following files:
 `README.md` 								                - This file. Brief description of the DSL data. 
 
 <hr />
+
+DSL-TL Corpus
 
 Each line in each of .tsv files are tab-delimited in the format:
 
