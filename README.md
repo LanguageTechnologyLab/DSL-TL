@@ -1,5 +1,4 @@
 # DSL-TL Corpus
-================
 
 This is the training data for the Discriminating between Similar Languages - True Labels (DSL-TL) task at VarDial 2023.
 
