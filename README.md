@@ -15,7 +15,7 @@ This repository contains the following files:
 `README.md` 								                - This file. Brief description of the DSL data. 
 
 <hr />
-<h2>Format<h2>
+<h2>Format
 
 Each line in each of .tsv files are tab-delimited in the format:
 
@@ -26,7 +26,7 @@ Example:
 `135<tab>Hey, burger freaks: Were you planning to wait two hours-plus cooling your heels for Au Cheval’s crazypants patty? Hold your horses.<tab>American (en-US)`
 
 <hr />
-<h2>Contact<h2>
+<h2>Contact
 
 For more details please contact knorth8@gmu.edu
 
