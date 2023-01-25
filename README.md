@@ -17,6 +17,6 @@ Each line in each of .tsv files are tab-delimited in the format:
 
 `id<tab>sentence<tab>label`
 
-==For more details please contact knorth8@gmu.edu==
+==For== more details please contact knorth8@gmu.edu
 
 Jan 23 2023
