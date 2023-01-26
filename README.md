@@ -18,7 +18,7 @@ This repository contains the following files:
 
 ![#228B22](https://placehold.co/2x2/228B22/228B22.png) `../PT-DSLCC-TL/PT_dev.tsv` 							  - Portuguese Dev set for the DSL-TL task 
 
-`README.md` 								                - This file. Brief description of the DSL data. 
+`README.md` 								                - This file. Brief description of the DSL-TL data. 
 
 <h2>Format</h2>
 
