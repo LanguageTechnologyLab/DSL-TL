@@ -6,7 +6,7 @@ This is the training data for the Discriminating between Similar Languages - Tru
 
 This repository contains the following files:
 
-`../EN-DSLCC-TL/EN_train.tsv`               - English Training set for the DSL-TL task 
+`../EN-DSLCC-TL/EN_train.tsv`               - <FONT COLOR="#ff0000">English Training set</FONT> for the DSL-TL task 
 
 `../EN-DSLCC-TL/EN_dev.tsv`                 - English Dev set for the DSL-TL task 
 
