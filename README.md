@@ -14,7 +14,7 @@ This repository contains the following files:
 
 `../ES-DSLCC-TL/ES_dev.tsv` 						  	- Spanish Dev set for the DSL-TL task 
 
-`#OOffOO` `../PT-DSLCC-TL/PT_train.tsv` 							- Portuguese Training set for the DSL-TL task 
+`#ffffff` `../PT-DSLCC-TL/PT_train.tsv` 							- Portuguese Training set for the DSL-TL task 
 
 `../PT-DSLCC-TL/PT_dev.tsv` 							  - Portuguese Dev set for the DSL-TL task 
 
