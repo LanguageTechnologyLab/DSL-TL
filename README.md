@@ -8,15 +8,15 @@ This repository contains the following files:
 
 ![#f03c15](https://placehold.co/2x2/f03c15/f03c15.png) `../EN-DSLCC-TL/EN_train.tsv`               - <FONT COLOR="#ff0000">English Training set</FONT> for the DSL-TL task 
 
-![#e69b00](https://placehold.co/2x2/e69b00/e69b00.png) `../EN-DSLCC-TL/EN_dev.tsv`                 - English Dev set for the DSL-TL task 
+![#f03c15](https://placehold.co/2x2/f03c15/f03c15.png) `../EN-DSLCC-TL/EN_dev.tsv`                 - English Dev set for the DSL-TL task 
 
-![#f03c15](https://placehold.co/2x2/f03c15/f03c15.png) `../ES-DSLCC-TL/ES_train.tsv` 							- Spanish Training set for the DSL-TL task 
+![#e6b400](https://placehold.co/2x2/e6b400/e6b400.png) `../ES-DSLCC-TL/ES_train.tsv` 							- Spanish Training set for the DSL-TL task 
 
-![#f03c15](https://placehold.co/2x2/f03c15/f03c15.png) `../ES-DSLCC-TL/ES_dev.tsv` 						  	- Spanish Dev set for the DSL-TL task 
+![#e6b400](https://placehold.co/2x2/e6b400/e6b400.png) `../ES-DSLCC-TL/ES_dev.tsv` 						  	- Spanish Dev set for the DSL-TL task 
 
-![#f03c15](https://placehold.co/2x2/f03c15/f03c15.png)  `../PT-DSLCC-TL/PT_train.tsv` 							- Portuguese Training set for the DSL-TL task 
+![#228B22](https://placehold.co/2x2/228B22/228B22.png)  `../PT-DSLCC-TL/PT_train.tsv` 							- Portuguese Training set for the DSL-TL task 
 
-![#f03c15](https://placehold.co/2x2/f03c15/f03c15.png) `../PT-DSLCC-TL/PT_dev.tsv` 							  - Portuguese Dev set for the DSL-TL task 
+![#228B22](https://placehold.co/2x2/228B22/228B22.png) `../PT-DSLCC-TL/PT_dev.tsv` 							  - Portuguese Dev set for the DSL-TL task 
 
 `README.md` 								                - This file. Brief description of the DSL data. 
 
