@@ -30,6 +30,16 @@ Each line in the .tsv files are tab-delimited in the format:
 
 `135<tab>Hey, burger freaks: Were you planning to wait two hours-plus cooling your heels for Au Cheval’s crazypants patty? Hold your horses.<tab>American (en-US)`
 
+<h2>Labels</h2>
+
+`EN`, `ES`, and `PT` for common instances
+
+`EN-GB` and `ES-US` for English
+
+`ES-ES` and `ES-AR` for Spanish
+
+`PT-PT` and `PT-BR` for Portuguese
+
 <h2>Contact</h2>
 
 For more details please contact knorth8@gmu.edu
