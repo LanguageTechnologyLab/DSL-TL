@@ -42,8 +42,9 @@ Each line in the .tsv files are tab-delimited in the format:
 
 <h2>Update 1/30/2023 </h2>
 
-
-
+> Labels have been standardized across the three datasets.
+> Several instances within the ES_train.tsv have been assigned ids that were previoulsy missing.
+> Four duplicates have been removed from accross the EN_train.tsv and EN_dev.tsv.
 
 
 <h2>Contact</h2>
