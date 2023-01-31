@@ -28,7 +28,7 @@ Each line in the .tsv files are tab-delimited in the format:
 
 <strong>Example:</strong> 
 
-`135<tab>Hey, burger freaks: Were you planning to wait two hours-plus cooling your heels for Au Cheval’s crazypants patty? Hold your horses.<tab>American (en-US)`
+`135<tab>Hey, burger freaks: Were you planning to wait two hours-plus cooling your heels for Au Cheval’s crazypants patty? Hold your horses.<tab> EN-US`
 
 <h2>Labels</h2>
 
