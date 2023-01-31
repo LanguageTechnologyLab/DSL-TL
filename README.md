@@ -40,6 +40,12 @@ Each line in the .tsv files are tab-delimited in the format:
 
 `PT-PT` and `PT-BR` for Portuguese (European) and Brazilain Portuguese respectively.
 
+<h2>Update (v0.2) 1/30/2023 </h2>
+
+
+
+
+
 <h2>Contact</h2>
 
 For more details please contact knorth8@gmu.edu
