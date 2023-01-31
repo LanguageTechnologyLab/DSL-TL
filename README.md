@@ -38,7 +38,7 @@ Each line in the .tsv files are tab-delimited in the format:
 
 `ES-ES` and `ES-AR` for Spanish (Peninsular/European) and Argentine Spanish respectively.
 
-`PT-PT` and `PT-BR` for Portuguese (European) and Brazilain Portuguese respectively.
+`PT-PT` and `PT-BR` for Portuguese (European) and Brazilian Portuguese respectively.
 
 <h2>Update (v0.2) 1/30/2023 </h2>
 
