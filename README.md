@@ -32,13 +32,13 @@ Each line in the .tsv files are tab-delimited in the format:
 
 <h2>Labels</h2>
 
-`EN`, `ES`, and `PT` for common instances
+`EN`, `ES`, and `PT` for common instances, previous labeled as `Both or neither`, `Ambas o ninguna (both or none)`, or  `Ambas ou Nenhuma (both or none) ` and  `Ambas or None (both or none)` respectively.
 
-`EN-GB` and `ES-US` for English
+`EN-GB` and `ES-US` for British and American English respectively.
 
-`ES-ES` and `ES-AR` for Spanish
+`ES-ES` and `ES-AR` for Spanish (Peninsular/European) and Argentine Spanish respectively.
 
-`PT-PT` and `PT-BR` for Portuguese
+`PT-PT` and `PT-BR` for Portuguese (European) and Brazilain Portuguese respectively.
 
 <h2>Contact</h2>
 
