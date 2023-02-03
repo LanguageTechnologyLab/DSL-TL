@@ -15,7 +15,7 @@ We tackle this important limitation by introducing the DSL True Labels (DSL-TL) 
 
 <ul>
   <li>Included the test.tsv file for DSL-TL. Can be found at: `../Test-DSL-TL/DSL-TL-test.tsv`.</li>
-  <li>Added Submission_Instructions at: ../Test-DSL-TL/Submission_Instructions.md.</li>.
+  <li>Added Submission_Instructions at: `../Test-DSL-TL/Submission_Instructions.md`</li>.
   <li>Changed directory structure. Directories previously named DSLCC-TL have been shortened to DSL-TL to conform names.</li>
 
 </ul>
