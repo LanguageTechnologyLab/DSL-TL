@@ -31,7 +31,7 @@ Each line in the test.tsv file is in the format:
 	text-sample-N
 
 
-== Submission ==
+<h2>Submission</h2>
 
 Each participant is allowed to submit 3 runs for the CLOSED submission and 3 runs for the OPEN submission to:
 
@@ -60,8 +60,7 @@ For example, if the team name is "Harvard", the first CLOSED submission should c
 	DSLTL-readme-closed-run-1-Harvard.txt
 
 
-
-== Task Description ==
+<h2>Task Description</h2>
 
 COPY the DSL-TL Description
 
@@ -84,11 +83,9 @@ In addition to the two submission types, each submission will be scored in two t
 
 - Track 2 - Binary Classification: In this track, systems will be scored only on the variety-specific labels (e.g., EN-GB, EN-US).
 
-
-== Evaluation ==
+<h2>Evaluation</h2>
 
 The macro-averaged F1 score will be used to rank the participants.
-
 
 <h2>Update 1/30/2023 </h2>
 
