@@ -12,15 +12,11 @@ This repository contains the following files:
 
 `../EN-DSLCC-TL/EN_dev.tsv`                 - English Dev set for the DSL-TL task              -  599
 
-`../EN-DSLCC-TL/EN_test.tsv`                - English Test set for the DSL-TL task              -  300
-
 <h3>Data for Spanish - (:es:/:argentina:)</h3>
 
 `../ES-DSLCC-TL/ES_train.tsv` 							- Spanish Training set for the DSL-TL task              -  3467 
 
 `../ES-DSLCC-TL/ES_dev.tsv` 						  	- Spanish Dev set for the DSL-TL task              -  989 
-
-`../ES-DSLCC-TL/ES_test.tsv`                - Spanish Test set for the DSL-TL task              -  495 
 
 <h3>Data for Portuguese - (:portugal:/:brazil:)</h3>
 
@@ -28,13 +24,10 @@ This repository contains the following files:
 
 `../PT-DSLCC-TL/PT_dev.tsv` 							  - Portuguese Dev set for the DSL-TL task              -  991 
 
-`../PT-DSLCC-TL/PT_test.tsv`                - Portuguese Test set for the DSL-TL task              -  495    
 
 <h3>Additional Files</h3>
 
 `README.md` 								                - This file. Brief description of the DSL-TL data. 
-
-`../example_annotation_guidelines/..`  							- Example annotation prompts used on Amazon Mechanical Turk.
 
 <h2>Format</h2>
 
@@ -56,17 +49,8 @@ Each line in the .tsv files are tab-delimited in the format:
 
 `PT-PT` and `PT-BR` for Portuguese (European) and Brazilian Portuguese respectively.
 
-<h2>Update 1/30/2023 </h2>
-
-<ul>
-  <li>Labels have been standardized across the three datasets.</li>
-  <li>Several instances within the ES_train.tsv have been assigned ids that were previoulsy missing.</li>
-  <li>Four duplicates have been removed across the EN_train.tsv and EN_dev.tsv.</li>
-  <li>Example Annotation Prompts added.</li>
-</ul>
-
 <h2>Contact</h2>
 
 For more details please contact knorth8@gmu.edu
 
-Last updated Jan 23 2023
+Last updated Feb 3 2023
