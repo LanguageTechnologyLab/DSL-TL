@@ -9,7 +9,9 @@ We tackle this important limitation by introducing the DSL True Labels (DSL-TL) 
   <li><b>Track 2</b> - Binary Classification: In this track, systems will be scored only on the variety-specific labels (e.g., EN-GB, EN-US).</li>
 </ul>
 
-<h2>Update 1/30/2023 </h2>
+<h2>News</h2>
+
+<h3>Update 1/30/2023 </h3>
 
 <ul>
   <li>Labels have been standardized across the three datasets.</li>
