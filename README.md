@@ -5,14 +5,14 @@ Discriminating between similar languages (e.g., Croatian and Serbian) and langua
 We tackle this important limitation by introducing the DSL True Labels (DSL-TL) task. DSL-TL will provide participants with a human-annotated DSL dataset. A sub-set of nearly 13,000 sentences were retrieved from the DSLCC and annotated by multiple native speakers of the included language and varieties included, namely English (American and British), Portuguese (Brazilian and European), Spanish (Argentinian and Peninsular). To the best of our knowledge this is the first dataset of its kind opening exciting new avenues for language identification research.
 
 <ul>
-  <li>Track 1 - Three-way Classification: In this track, systems will be evaluated with respect to the prediction of all three labels for each language, namely the variety-specific labels (e.g., PT-PT or PT-BR) and the common label (e.g., PT).</li>
-  <li>Track 2 - Binary Classification: In this track, systems will be scored only on the variety-specific labels (e.g., EN-GB, EN-US).</li>
+  <li><b>Track 1</b> - Three-way Classification: In this track, systems will be evaluated with respect to the prediction of all three labels for each language, namely the variety-specific labels (e.g., PT-PT or PT-BR) and the common label (e.g., PT).</li>
+  <li><b>Track 2</b> - Binary Classification: In this track, systems will be scored only on the variety-specific labels (e.g., EN-GB, EN-US).</li>
 </ul>
 
 
-Evaluation: Macro F1 score over the language/variety labels (9 on track 1, 6 on track 2).
+<b>Evaluation</b>: Macro F1 score over the language/variety labels (9 on track 1, 6 on track 2).
 
-Submission type(s): Closed or Open
+<b>Submission type(s)</b>: Closed or Open
 
 
 <h1>DSL-TL Corpus</h1>
