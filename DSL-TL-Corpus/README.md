@@ -26,7 +26,7 @@ This repository contains the following files:
 
 <h3>Test Data</h3>
 
-`../Test-DSL-TL\DSL-TL-test.tsv` 							  - Portuguese Dev set for the DSL-TL task              -  991 
+`../Test-DSL-TL/DSL-TL-test.tsv` 							  - Test set for both tracks. Contains instances in all language varieties without labels              -  1290 
 
 
 <h3>Additional Files</h3>
