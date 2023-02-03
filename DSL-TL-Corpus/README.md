@@ -34,6 +34,10 @@ This repository contains the following files:
 
 `README.md` 								                - This file. Brief description of the DSL-TL data. 
 
+`../example_annotation_guidlines/..` 								                - Example prompts used during annotation on Amazon Mechanical Turk.
+
+
+
 <h2>Format</h2>
 
 Each line in the .tsv files are tab-delimited in the format:
