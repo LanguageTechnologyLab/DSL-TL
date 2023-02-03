@@ -48,7 +48,7 @@ For example, if the team name is "Harvard", the first CLOSED submission should c
 
 <h2>Task Description</h2>
 
-The DSL-TL shared-task provides participants with a human-annotated DSL dataset. A sub-set of nearly 12,900 sentences were retrieved from the DSLCC and annotated by multiple native speakers of the included languages and varieties, namely English (American and British), Portuguese (Brazilian and European), Spanish (Argentinian and Peninsular). To the best of our knowledge, this is the first dataset of its kind opening exciting new avenues for language identification research.
+The DSL-TL shared-task provides participants with a human-annotated DSL dataset. A sub-set of nearly 13,000 sentences were retrieved from the DSLCC and annotated by multiple native speakers of the included languages and varieties, namely English (American and British), Portuguese (Brazilian and European), Spanish (Argentinian and Peninsular). To the best of our knowledge, this is the first dataset of its kind opening exciting new avenues for language identification research.
 
 <ul>
   <li><b>Track 1</b> - Three-way Classification: In this track, systems will be evaluated with respect to the prediction of all three labels for each language, namely the variety-specific labels (e.g., PT-PT or PT-BR) and the common label (e.g., PT).</li>
