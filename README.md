@@ -34,7 +34,7 @@ This repository contains the following files:
 
 `README.md` 								                - This file. Brief description of the DSL-TL data. 
 
-`../example_annotation_guidelines/..`  							- Example annotation prompts used on Amazon Mechanical Turk for annotation. 
+`../example_annotation_guidelines/..`  							- Example annotation prompts used on Amazon Mechanical Turk.
 
 <h2>Format</h2>
 
