@@ -62,9 +62,10 @@ We will share a reference to the dataset paper and shared task in due time.
 
 The following two submission types are allowed:
 
-- CLOSED: participants ARE NOT allowed to use external data to train their models. You should only the dataset provided by the competition. 
-
-- OPEN: participants ARE allowed to use external resources such as other corpora, lexicons to train their models.
+<ul>
+  <li><b>CLOSED</b> : participants ARE NOT allowed to use external data to train their models. You should only the dataset provided by the competition. 
+  <li><b>OPEN</b> : participants ARE allowed to use external resources such as other corpora, lexicons to train their models.
+</ul>
 
 In both submission types, participants are allowed to use pre-trained embeddings (e.g., BERT).
 
