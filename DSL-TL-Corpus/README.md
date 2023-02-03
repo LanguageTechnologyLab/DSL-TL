@@ -28,7 +28,7 @@ This repository contains the following files:
 
 `../Test-DSL-TL/DSL-TL-test.tsv` 							  - Test set for both tracks. Contains instances in all language varieties without labels              -  1290 
 
-`../Test-DSL-TL/README.md` 							  - <b>Submission Instructions</b>        
+`../Test-DSL-TL/Submission_Instructions.md` 							  - <b>Submission Instructions</b>        
 
 <h3>Additional Files</h3>
 
