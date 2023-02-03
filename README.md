@@ -14,6 +14,11 @@ We tackle this important limitation by introducing the DSL True Labels (DSL-TL) 
 
 <b>Submission type(s)</b>: Closed or Open
 
+<h1>Submission Instructions</h1>
+
+
+
+
 
 <h1>DSL-TL Corpus</h1>
 
