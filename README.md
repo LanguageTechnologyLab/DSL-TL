@@ -10,13 +10,19 @@ This repository contains the following files:
 
 `../EN-DSLCC-TL/EN_dev.tsv`                 - English Dev set for the DSL-TL task 
 
+`../EN-DSLCC-TL/EN_test.tsv`                - English Test set for the DSL-TL task 
+
 `../ES-DSLCC-TL/ES_train.tsv` 							- Spanish Training set for the DSL-TL task 
 
 `../ES-DSLCC-TL/ES_dev.tsv` 						  	- Spanish Dev set for the DSL-TL task 
 
+`../ES-DSLCC-TL/ES_test.tsv`                - Spanish Test set for the DSL-TL task 
+
 `../PT-DSLCC-TL/PT_train.tsv` 							- Portuguese Training set for the DSL-TL task 
 
 `../PT-DSLCC-TL/PT_dev.tsv` 							  - Portuguese Dev set for the DSL-TL task 
+
+`../PT-DSLCC-TL/PT_test.tsv`                - Portuguese Test set for the DSL-TL task 
 
 `README.md` 								                - This file. Brief description of the DSL-TL data. 
 
