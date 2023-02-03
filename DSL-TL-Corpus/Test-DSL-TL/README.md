@@ -4,7 +4,7 @@
 
 The test data contains the following file:
 
-	test.tsv - testing set
+	DSL-TL-test.tsv - testing set
 
 Each line in the test.tsv file is in the format:
 
