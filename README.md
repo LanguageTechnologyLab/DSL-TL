@@ -8,29 +8,33 @@ This repository contains the following files:
 
 <h3>Data for English - (:uk:/:us:)</h3>
 
-`../EN-DSLCC-TL/EN_train.tsv`               - English Training set for the DSL-TL task              - 12 
+`../EN-DSLCC-TL/EN_train.tsv`               - English Training set for the DSL-TL task              -  2096
 
-`../EN-DSLCC-TL/EN_dev.tsv`                 - English Dev set for the DSL-TL task              -  12
+`../EN-DSLCC-TL/EN_dev.tsv`                 - English Dev set for the DSL-TL task              -  598
 
-`../EN-DSLCC-TL/EN_test.tsv`                - English Test set for the DSL-TL task              -  12
+`../EN-DSLCC-TL/EN_test.tsv`                - English Test set for the DSL-TL task              -  299
 
 <h3>Data for Spanish - (:es:/:argentina:)</h3>
 
-`../ES-DSLCC-TL/ES_train.tsv` 							- Spanish Training set for the DSL-TL task 
+`../ES-DSLCC-TL/ES_train.tsv` 							- Spanish Training set for the DSL-TL task              -  3466 
 
-`../ES-DSLCC-TL/ES_dev.tsv` 						  	- Spanish Dev set for the DSL-TL task 
+`../ES-DSLCC-TL/ES_dev.tsv` 						  	- Spanish Dev set for the DSL-TL task              -  988 
 
-`../ES-DSLCC-TL/ES_test.tsv`                - Spanish Test set for the DSL-TL task 
+`../ES-DSLCC-TL/ES_test.tsv`                - Spanish Test set for the DSL-TL task              -  494 
 
 <h3>Data for Portuguese - (:portugal:/:brazil:)</h3>
 
-`../PT-DSLCC-TL/PT_train.tsv` 							- Portuguese Training set for the DSL-TL task 
+`../PT-DSLCC-TL/PT_train.tsv` 							- Portuguese Training set for the DSL-TL task              -  3466 
 
-`../PT-DSLCC-TL/PT_dev.tsv` 							  - Portuguese Dev set for the DSL-TL task 
+`../PT-DSLCC-TL/PT_dev.tsv` 							  - Portuguese Dev set for the DSL-TL task              -  990 
 
-`../PT-DSLCC-TL/PT_test.tsv`                - Portuguese Test set for the DSL-TL task    
+`../PT-DSLCC-TL/PT_test.tsv`                - Portuguese Test set for the DSL-TL task              -  494    
+
+<h3>Additional Files</h3>
 
 `README.md` 								                - This file. Brief description of the DSL-TL data. 
+
+`../example_annotation_guidelines/..`  							- Example annotation prompts used on Amazon Mechanical Turk for annotation. 
 
 <h2>Format</h2>
 
