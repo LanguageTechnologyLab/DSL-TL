@@ -23,7 +23,7 @@ Each participant is allowed to submit 3 runs for the CLOSED submission and 3 run
 
 	knorth8@gmu.edu
 
-Your submission files must follow the following naming convention: DSLTL-[submission_type]-run-X-[team_name].tsv 
+Your submission files must follow the following naming convention: <b>DSLTL-[submission_type]-run-X-[team_name].tsv</b> 
 
 The submission files should be in the following format:
 
