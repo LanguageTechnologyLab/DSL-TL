@@ -8,21 +8,25 @@ This repository contains the following files:
 
 <h3>Data for English - (:uk:/:us:)</h3>
 
-`../EN-DSLCC-TL/EN_train.tsv`               - English Training set for the DSL-TL task              -  2097
+`../EN-DSL-TL/EN_train.tsv`               - English Training set for the DSL-TL task              -  2097
 
-`../EN-DSLCC-TL/EN_dev.tsv`                 - English Dev set for the DSL-TL task              -  599
+`../EN-DSL-TL/EN_dev.tsv`                 - English Dev set for the DSL-TL task              -  599
 
 <h3>Data for Spanish - (:es:/:argentina:)</h3>
 
-`../ES-DSLCC-TL/ES_train.tsv` 							- Spanish Training set for the DSL-TL task              -  3467 
+`../ES-DSL-TL/ES_train.tsv` 							- Spanish Training set for the DSL-TL task              -  3467 
 
-`../ES-DSLCC-TL/ES_dev.tsv` 						  	- Spanish Dev set for the DSL-TL task              -  989 
+`../ES-DSL-TL/ES_dev.tsv` 						  	- Spanish Dev set for the DSL-TL task              -  989 
 
 <h3>Data for Portuguese - (:portugal:/:brazil:)</h3>
 
-`../PT-DSLCC-TL/PT_train.tsv` 							- Portuguese Training set for the DSL-TL task              -  3467 
+`../PT-DSL-TL/PT_train.tsv` 							- Portuguese Training set for the DSL-TL task              -  3467 
 
-`../PT-DSLCC-TL/PT_dev.tsv` 							  - Portuguese Dev set for the DSL-TL task              -  991 
+`../PT-DSL-TL/PT_dev.tsv` 							  - Portuguese Dev set for the DSL-TL task              -  991 
+
+<h3>Test Data</h3>
+
+`../Test-DSL-TL\DSL-TL-test.tsv` 							  - Portuguese Dev set for the DSL-TL task              -  991 
 
 
 <h3>Additional Files</h3>
