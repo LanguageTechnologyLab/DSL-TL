@@ -6,7 +6,7 @@ This is the official training and dev data for the Discriminating between Simila
 
 This repository contains the following files:
 
-<h3>Data for English - :uk:|:us:</h3>
+<h3>Data for English - (:uk::us:)</h3>
 
 `../EN-DSLCC-TL/EN_train.tsv`               - English Training set for the DSL-TL task 
 
@@ -14,7 +14,7 @@ This repository contains the following files:
 
 `../EN-DSLCC-TL/EN_test.tsv`                - English Test set for the DSL-TL task 
 
-<h3>Data for Spanish - :es:|:argentina:</h3>
+<h3>Data for Spanish - (:es::argentina:_</h3>
 
 `../ES-DSLCC-TL/ES_train.tsv` 							- Spanish Training set for the DSL-TL task 
 
