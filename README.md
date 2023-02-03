@@ -8,11 +8,11 @@ This repository contains the following files:
 
 <h3>Data for English - (:uk:/:us:)</h3>
 
-`../EN-DSLCC-TL/EN_train.tsv`               - English Training set for the DSL-TL task 
+`../EN-DSLCC-TL/EN_train.tsv`               - English Training set for the DSL-TL task              - 12 
 
-`../EN-DSLCC-TL/EN_dev.tsv`                 - English Dev set for the DSL-TL task 
+`../EN-DSLCC-TL/EN_dev.tsv`                 - English Dev set for the DSL-TL task              -  12
 
-`../EN-DSLCC-TL/EN_test.tsv`                - English Test set for the DSL-TL task 
+`../EN-DSLCC-TL/EN_test.tsv`                - English Test set for the DSL-TL task              -  12
 
 <h3>Data for Spanish - (:es:/:argentina:)</h3>
 
