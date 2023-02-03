@@ -70,9 +70,10 @@ In both submission types, participants are allowed to use pre-trained embeddings
 
 In addition to the two submission types, each submission will be scored in two tracks:
 
-- Track 1 - Three-way Classification: In this track, systems will be evaluated with respect to the prediction of all three labels for each language, namely the variety-specific labels (e.g., PT-PT or PT-BR) and the common label (e.g., PT).
-
-- Track 2 - Binary Classification: In this track, systems will be scored only on the variety-specific labels (e.g., EN-GB, EN-US).
+<ul>
+  <li><b>Track 1</b> - Three-way Classification: In this track, systems will be evaluated with respect to the prediction of all three labels for each language, namely the variety-specific labels (e.g., PT-PT or PT-BR) and the common label (e.g., PT).
+ <li><b>Track 2</b> - Binary Classification: In this track, systems will be scored only on the variety-specific labels (e.g., EN-GB, EN-US).
+</ul>
 
 <h2>Evaluation</h2>
 
