@@ -14,8 +14,8 @@ We tackle this important limitation by introducing the DSL True Labels (DSL-TL) 
 <h3>Update 2/03/2023 </h3>
 
 <ul>
-  <li>Included the test.tsv file for DSL-TL. Can be found at: ../Test-DSL-TL/DSL-TL-test.tsv.</li>
-  <li>Added Submission_Instructions at: ../Test-DSL-TL/Submission_Instructions.md</li>
+  <li>Included the test.tsv file for DSL-TL. Can be found at: [../Test-DSL-TL/DSL-TL-test.tsv](https://github.com/LanguageTechnologyLab/DSL-TL/tree/main/DSL-TL-Corpus/Test-DSL-TL)</li>
+  <li>Added submission instructions at: [../Test-DSL-TL/Submission_Instructions.md](https://github.com/LanguageTechnologyLab/DSL-TL/tree/main/DSL-TL-Corpus/Test-DSL-TL)</li>
   <li>Changed directory structure. Directories previously named DSLCC-TL have been shortened to DSL-TL to conform with dataset.</li>
 </ul>
 
