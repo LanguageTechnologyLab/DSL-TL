@@ -22,11 +22,13 @@ This repository contains the following files:
 
 `../ES-DSLCC-TL/ES_test.tsv`                - Spanish Test set for the DSL-TL task 
 
+<h3>Data for Portuguese - (:portugal:/:brazil:)</h3>
+
 `../PT-DSLCC-TL/PT_train.tsv` 							- Portuguese Training set for the DSL-TL task 
 
 `../PT-DSLCC-TL/PT_dev.tsv` 							  - Portuguese Dev set for the DSL-TL task 
 
-`../PT-DSLCC-TL/PT_test.tsv`                - Portuguese Test set for the DSL-TL task 
+`../PT-DSLCC-TL/PT_test.tsv`                - Portuguese Test set for the DSL-TL task    
 
 `README.md` 								                - This file. Brief description of the DSL-TL data. 
 
