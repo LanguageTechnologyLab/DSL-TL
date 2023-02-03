@@ -6,7 +6,7 @@ This is the official training and dev data for the Discriminating between Simila
 
 This repository contains the following files:
 
-<h3>Instances in English</h3>
+<h3>Data for English `r emo::ji("france")`</h3>
 
 `../EN-DSLCC-TL/EN_train.tsv`               - English Training set for the DSL-TL task 
 
