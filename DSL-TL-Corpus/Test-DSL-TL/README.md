@@ -23,7 +23,7 @@ Each participant is allowed to submit 3 runs for the CLOSED submission and 3 run
 
 	knorth8@gmu.edu
 
-Your submission files must follow the following naming convention: <b>DSLTL-[submission_type]-run-X-[team_name].tsv</b> 
+Your submission files must follow the following naming convention: <b>DSLTL-[submission_type]-[track]-run-X-[team_name].tsv</b> 
 
 The submission files should be in the following format:
 
@@ -41,9 +41,9 @@ Each submission (run) must be accompanied by a <b>DSLTL-readme-[task_type]-run-X
 
 For example, if the team name is "Harvard", the first CLOSED submission should contain two files:
 
-	DSLTL-closed-run-1-Harvard.tsv
+	DSLTL-closed-track1-run-1-Harvard.tsv
 
-	DSLTL-readme-closed-run-1-Harvard.txt
+	DSLTL-readme-closed-track1-run-1-Harvard.txt
 
 
 <h2>Task Description</h2>
