@@ -28,7 +28,7 @@ This repository contains the following files:
 
 `../Test-DSL-TL/DSL-TL-test.tsv` 							  - Test set for both tracks. Contains instances in all language varieties without labels              -  1290 
 
-`../Test-DSL-TL/Submission_Instructions.md` 							  - <a href="https://github.com/LanguageTechnologyLab/DSL-TL/tree/main/DSL-TL-Corpus/Test-DSL-TL">Submission Instructions</a>        
+`../Test-DSL-TL/Submission_Instructions.md` 							  - <a href="https://gitfront.io/r/user-8615904/RrdNouqLYf3k/DSL-TL/tree/DSL-TL-Corpus/Test-DSL-TL/">Submission Instructions</a>        
 
 <h3>Additional Files</h3>
 
