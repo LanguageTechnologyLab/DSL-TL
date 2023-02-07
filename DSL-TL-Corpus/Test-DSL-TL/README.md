@@ -41,7 +41,7 @@ Each submission (run) must be accompanied by a <b>DSLTL-readme-[task_type]-run-X
 
 For example, if the team name is "Harvard", the first CLOSED submission should contain two files:
 
-	DSLTL-closed-run-1-Harvard.txt
+	DSLTL-closed-run-1-Harvard.tsv
 
 	DSLTL-readme-closed-run-1-Harvard.txt
 
