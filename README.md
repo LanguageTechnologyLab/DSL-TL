@@ -14,7 +14,7 @@ We tackle this important limitation by introducing the DSL True Labels (DSL-TL) 
 <h3>Update 2/03/2023 </h3>
 
 <ul>
-  <li>Included the test.tsv file for DSL-TL. Can be found at: <a href="https://gitfront.io/r/user-8615904/RrdNouqLYf3k/DSL-TL/tree/DSL-TL-Corpus/Test-DSL-TL/">../Test-DSL-TL/DSL-TL-test.tsv</a></li>
+  <li>Included the test.tsv file for DSL-TL. Can be found at: <a href="https://gitfront.io/r/user-8615904/RrdNouqLYf3k/DSL-TL/blob/DSL-TL-Corpus/Test-DSL-TL/DSL-TL-test.tsv">../Test-DSL-TL/DSL-TL-test.tsv</a></li>
   <li>Added submission instructions at: <a href="https://gitfront.io/r/user-8615904/RrdNouqLYf3k/DSL-TL/tree/DSL-TL-Corpus/Test-DSL-TL/">../Test-DSL-TL/Submission_Instructions.md</a></li>
   <li>Changed directory structure. Directories previously named DSLCC-TL have been shortened to DSL-TL to conform with dataset.</li>
 </ul>
