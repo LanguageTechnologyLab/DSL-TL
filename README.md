@@ -11,6 +11,12 @@ We tackle this important limitation by introducing the DSL True Labels (DSL-TL) 
 
 <h2>News</h2>
 
+<h3>Update 2/13/2023 </h3>
+
+<ul>
+  <li>Converted four labels with the ES_train.tsv file to uppercase: es-ES to ES-ES. Updated file can be found at: <a href="https://gitfront.io/r/user-8615904/RrdNouqLYf3k/DSL-TL/blob/DSL-TL-Corpus/ES-DSL-TL/ES_train.tsv">../ES-DSL-TL/ES_Train.tsv</a></li>
+</ul>
+
 <h3>Update 2/03/2023 </h3>
 
 <ul>
