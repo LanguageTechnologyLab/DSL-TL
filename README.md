@@ -29,7 +29,7 @@ We tackle this important limitation by introducing the DSL True Labels (DSL-TL) 
 
 <ul>
   <li>Labels have been standardized across the three datasets.</li>
-  <li>Several instances within the ES_train.tsv have been assigned ids that were previoulsy missing.</li>
+  <li>Several instances within the ES_train.tsv have been assigned ids that were previously missing.</li>
   <li>Four duplicates have been removed across the EN_train.tsv and EN_dev.tsv.</li>
   <li>Example Annotation Prompts added.</li>
 </ul>
