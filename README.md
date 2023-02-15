@@ -11,6 +11,12 @@ We tackle this important limitation by introducing the DSL True Labels (DSL-TL) 
 
 <h2>News</h2>
 
+
+<h3>Update 2/15/2023 </h3>
+
+<ul>
+  <li>Updated submission instructions, in particular, the file naming convention. The submission instructions should now be more clear. The file is located at: <a href="https://gitfront.io/r/user-8615904/RrdNouqLYf3k/DSL-TL/tree/DSL-TL-Corpus/Test-DSL-TL/">../Test-DSL-TL/Submission_Instructions.md</a></li>
+
 <h3>Update 2/13/2023 </h3>
 
 <ul>
