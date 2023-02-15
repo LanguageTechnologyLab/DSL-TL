@@ -25,7 +25,7 @@ Participants may also wish to submit the same submission to both tracks. In this
 
 Your submission files must follow the following naming convention: <b>DSLTL-[submission_type]-[track]-run-X-[team_name].tsv</b> 
 
-Examples of submission files are:
+Examples of submission files are (you may have up to 3 runs each):
 
 	DSLTL-closed-track1-run-1-Harvard.tsv
 	
