@@ -51,7 +51,7 @@ The submission files should be in the following format:
 
 	label N
 
-The labels must be given in the same order as the test samples listed in test.tsv. The participants must provide labels for all the test samples. We (organizers) will score your submission in tracks 1 (three-way - all labels) and 2 (binary - six labels). 
+The labels must be given in the same order as the test samples listed in test.tsv. The participants must provide labels for all the test samples. We (organizers) will score your submission in tracks 1 (three-way - all labels) and/or 2 (binary - six labels). 
 
 Each submission (run) must be accompanied by a <b>DSLTL-readme-[task_type]-[track]-run-X-[team_name].txt</b> file containing a one-paragraph description of the respective submission, where X is the run number (1, 2 or 3). 
 
