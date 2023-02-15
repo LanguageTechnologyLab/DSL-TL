@@ -19,7 +19,9 @@ Each line in the test.tsv file is in the format:
 
 <h2>Submission</h2>
 
-Each participant is allowed to submit 3 runs for the CLOSED submission and 3 runs for the OPEN submission to:
+Each participant is allowed to submit 3 runs for the CLOSED submission and 3 runs for the OPEN submission to as well as 3 runs for Track 1 and Track 2. As such, each participant cna submit a total of 12 submissions. For instance, each participant can submit the following combinations 3 times: closed-track1, closed-track2,  open-track1, and open-track2.
+
+Please submit your submissions to the following email address:
 
 	knorth8@gmu.edu
 
