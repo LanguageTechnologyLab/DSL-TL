@@ -69,7 +69,7 @@ The following two submission types are allowed:
 
 In both submission types, participants are allowed to use pre-trained embeddings (e.g., BERT).
 
-In addition to the two submission types, each submission will be scored in two tracks:
+In addition to the two submission types, your submission will be scored on either track 1 or track 2:
 
 <ul>
   <li><b>Track 1</b> - Three-way Classification: In this track, systems will be evaluated with respect to the prediction of all three labels for each language, namely the variety-specific labels (e.g., PT-PT or PT-BR) and the common label (e.g., PT).
