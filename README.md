@@ -15,20 +15,20 @@ We tackle this important limitation by introducing the DSL True Labels (DSL-TL) 
 <h3>Update 2/15/2023 </h3>
 
 <ul>
-  <li>Updated submission instructions, in particular, the file naming convention. The submission instructions should now be more clear. The file is located at: <a href="https://gitfront.io/r/user-8615904/RrdNouqLYf3k/DSL-TL/tree/DSL-TL-Corpus/Test-DSL-TL/">../Test-DSL-TL/Submission_Instructions.md</a></li>
+  <li>Updated submission instructions, in particular, the file naming convention. The submission instructions should now be more clear. The file is located at:../Test-DSL-TL/Submission_Instructions.md</li>
 </ul>
 
 <h3>Update 2/13/2023 </h3>
 
 <ul>
-  <li>Converted four labels within the ES_train.tsv file to uppercase: es-ES to ES-ES. Updated file can be found at: <a href="https://gitfront.io/r/user-8615904/RrdNouqLYf3k/DSL-TL/blob/DSL-TL-Corpus/ES-DSL-TL/ES_train.tsv">../ES-DSL-TL/ES_Train.tsv</a></li>
+  <li>Converted four labels within the ES_train.tsv file to uppercase: es-ES to ES-ES. Updated file can be found at: ../ES-DSL-TL/ES_Train.tsv</li>
 </ul>
 
 <h3>Update 2/03/2023 </h3>
 
 <ul>
-  <li>Included the test.tsv file for DSL-TL. Can be found at: <a href="https://gitfront.io/r/user-8615904/RrdNouqLYf3k/DSL-TL/blob/DSL-TL-Corpus/Test-DSL-TL/DSL-TL-test.tsv">../Test-DSL-TL/DSL-TL-test.tsv</a></li>
-  <li>Added submission instructions at: <a href="https://gitfront.io/r/user-8615904/RrdNouqLYf3k/DSL-TL/tree/DSL-TL-Corpus/Test-DSL-TL/">../Test-DSL-TL/Submission_Instructions.md</a></li>
+  <li>Included the test.tsv file for DSL-TL. Can be found at: ../Test-DSL-TL/DSL-TL-test.tsv</li>
+  <li>Added submission instructions at: ../Test-DSL-TL/Submission_Instructions.md</li>
   <li>Changed directory structure. Directories previously named DSLCC-TL have been shortened to DSL-TL to conform with dataset.</li>
 </ul>
 
