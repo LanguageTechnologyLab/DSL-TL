@@ -23,6 +23,17 @@ Each participant is allowed to submit 3 runs for the CLOSED submission and 3 run
 
 Your submission files must follow the following naming convention: <b>DSLTL-[submission_type]-[track]-run-X-[team_name].tsv</b> 
 
+Examples of submission files are:
+
+	DSLTL-closed-track1-run-1-Harvard.tsv
+	
+	DSLTL-closed-track2-run-1-Harvard.tsv
+	
+	DSLTL-open-track1-run-1-Harvard.tsv
+	
+	DSLTL-open-track2-run-1-Harvard.tsv
+	
+
 Please submit your submissions to the following email address:
 
 	knorth8@gmu.edu
