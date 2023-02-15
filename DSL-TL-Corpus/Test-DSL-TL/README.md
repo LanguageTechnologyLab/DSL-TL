@@ -19,7 +19,9 @@ Each line in the test.tsv file is in the format:
 
 <h2>Submission</h2>
 
-Each participant is allowed to submit 3 runs for the CLOSED submission and 3 runs for the OPEN submission as well as 3 runs for Track 1 and Track 2. As such, each participant can submit <b> a total of 12 submissions </b>. For instance, each participant can submit the following combinations 3 times: closed-track1, closed-track2, open-track1, and open-track2. Participants may also wish to submit the same submission to both tracks. In this case, please submit your submission twice for each track with the correct naming convention, e.g. closed-track1-run-1, closed-track2-run-2
+Each participant is allowed to submit 3 runs for the CLOSED submission and 3 runs for the OPEN submission as well as 3 runs for Track 1 and Track 2. As such, each participant can submit <b> a total of 12 submissions </b>. For instance, each participant can submit the following combinations 3 times: closed-track1, closed-track2, open-track1, and open-track2. 
+
+Participants may also wish to submit the same submission to both tracks. In this case, please submit your submission twice for each track with the correct naming convention, e.g. closed-track1-run-1, closed-track2-run-2.
 
 Your submission files must follow the following naming convention: <b>DSLTL-[submission_type]-[track]-run-X-[team_name].tsv</b> 
 
