@@ -11,6 +11,12 @@ We tackle this important limitation by introducing the DSL True Labels (DSL-TL) 
 
 <h2>News</h2>
 
+<h3>Update 3/08/2023 </h3>
+
+<ul>
+  <li>Included features for each language collected during annotation.</li>
+</ul>
+
 
 <h3>Update 2/15/2023 </h3>
 
