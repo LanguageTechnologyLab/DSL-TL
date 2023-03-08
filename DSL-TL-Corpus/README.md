@@ -36,7 +36,7 @@ This repository contains the following files:
 
 `../example_annotation_guidlines/..` 								                - Example prompts used during annotation on Amazon Mechanical Turk.
 
-
+`../Features-DSL-TL/..`  								                - Annotated features for each language. 
 
 <h2>Format</h2>
 
