@@ -14,7 +14,7 @@ We tackle this important limitation by introducing the DSL True Labels (DSL-TL) 
 <h3>Update 3/08/2023 </h3>
 
 <ul>
-  <li>Included features for each language collected during annotation.</li>
+  <li>Included features for each language collected during annotation. Features can be found at: ../DSL-TL/DSL-TL-Corpus/Features-DSL-TL/..</li>
 </ul>
 
 
